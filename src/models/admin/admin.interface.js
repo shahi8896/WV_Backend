@@ -1,0 +1,2 @@
+// admin.interface.ts
+export {};
